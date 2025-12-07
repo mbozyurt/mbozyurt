@@ -1,7 +1,7 @@
 <h1 align="center">Hi</h1>
 
 <p align="center">
-  <em>Software engineer & Full Stack Desktop & Web Developer</em>
+  <em>Software engineer & Full Stack Desktop / Web Developer</em>
 </p>
 
 ---
