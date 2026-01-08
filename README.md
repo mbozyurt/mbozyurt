@@ -1,4 +1,4 @@
-# Berk Özyurt (mbozyurt)
+# Berk Özyurt
 
 I work on engineering-focused software systems that combine heavy computation, large-scale data, and user-facing interfaces.  
 My background spans simulation-heavy desktop applications as well as modern frontend development, with an emphasis on clarity, performance, and maintainability.
