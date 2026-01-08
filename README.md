@@ -59,8 +59,8 @@ Conda, Docker, CI workflows
 
 ## GitHub activity
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mbozyurt&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats](github-readme-stats-git-main-mhmtozyurt97-9389s-projects.vercel.app/api?username=mbozyurt&show_icons=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mbozyurt&layout=compact)
+![Top Languages](github-readme-stats-git-main-mhmtozyurt97-9389s-projects.vercel.app/api/top-langs/?username=mbozyurt&layout=compact)
 
 
