@@ -19,9 +19,9 @@ A significant part of my work involves CAD and mesh pipelines:
 
 The focus is on robustness, correctness, and reproducibility.
 
-### Frontend and user interfaces
+### Frontend development and UI/UX designs
 Alongside desktop development, I also build frontend applications where usability and performance matter:
-- React-based interfaces using modern JavaScript (ES6+)  
+- React-based interfaces using modern Javascript (ES6+)  
 - State management and component-driven architecture  
 - API-driven UIs with attention to data flow and user feedback  
 
@@ -38,7 +38,7 @@ Across both backend and frontend work, I focus on:
 ## Technologies I use
 
 **Languages**  
-Python, JavaScript / TypeScript, C/C++ (interop)
+Python, JavaScript / TypeScript, C# (interop)
 
 **Frontend**  
 React, modern JS tooling, REST-based integrations
@@ -47,10 +47,10 @@ React, modern JS tooling, REST-based integrations
 Qt (PyQt5 / PySide), custom widgets and layouts
 
 **3D & Geometry**  
-VTK, OpenCascade
+VTK, OpenCascade, Three.js
 
 **Meshing & Formats**  
-Gmsh, UNV / MSH toolchains, STEP workflows
+Gmsh, UNV / MSH toolchains, STEP workflows on web and desktop development.
 
 **Environment & Tooling**  
 Conda, Docker, CI workflows
@@ -59,9 +59,7 @@ Conda, Docker, CI workflows
 
 ## GitHub activity
 
-## GitHub activity
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mbozyurt&show_icons=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mbozyurt&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbozyurt&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbozyurt&layout=compact)
 
