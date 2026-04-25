@@ -8,16 +8,8 @@ My background spans simulation-heavy desktop applications as well as modern fron
 ## What I work on
 
 ### Desktop applications and 3D visualization
-I develop desktop tools that remain responsive while processing and visualizing large datasets.  
+I develop desktopand web-baset tools that remain responsive while processing and visualizing large datasets.  
 This includes rendering models with millions of triangles, interactive 3D tools, and keeping UI threads clean under intensive workloads.
-
-### Geometry, meshing, and file interoperability
-A significant part of my work involves CAD and mesh pipelines:
-- STEP / UNV / MSH parsing and validation  
-- Format conversions and consistency checks  
-- Surface- and part-level analysis workflows  
-
-The focus is on robustness, correctness, and reproducibility.
 
 ### Frontend development and UI/UX designs
 Alongside desktop development, I also build frontend applications where usability and performance matter:
@@ -38,21 +30,20 @@ Across both backend and frontend work, I focus on:
 ## Technologies I use
 
 **Languages**  
-Python, JavaScript / TypeScript, C# (interop)
+Python, JavaScript / TypeScript, C# (.Net) , Java (Swing, Spring Boot)
 
 **Frontend**  
-React, modern JS tooling, REST-based integrations
+React (tsx, js), jQuery, REST-based integrations, modern UI families (Ant Design, materialUI), creating my own components for multi-use 
 
 **UI & Desktop**  
-Qt (PyQt5 / PySide), custom widgets and layouts
+Qt (PyQt5, PyQt6, PySide5, PySide6), custom widgets and layouts, multi platform applications (CentOS, Windows, MacOS)
 
 **3D & Geometry**  
-VTK, OpenCascade, Three.js
-
-**Meshing & Formats**  
-Gmsh, UNV / MSH toolchains, STEP workflows on web and desktop development.
+VTK, Gmsh, OpenCascade, Three.js
 
 **Environment & Tooling**  
-Conda, Docker, CI workflows
+Conda, Docker, CI workflows, Swagger, RabbitMQ socket connections
 
+**Large Data Optimization**
+Effective parsing on Gigabytes of data reads and writes, effective (60fps +) visualization of millions of triangles...  
 ---
