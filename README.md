@@ -1,49 +1,48 @@
 # Berk Özyurt
 
-I work on engineering-focused software systems that combine heavy computation, large-scale data, and user-facing interfaces.  
-My background spans simulation-heavy desktop applications as well as modern frontend development, with an emphasis on clarity, performance, and maintainability.
+Software developer focused on engineering, simulation, desktop, web, and mobile applications.
 
----
+## Selected Projects
 
-## What I work on
+### PACE
 
-### Desktop applications and 3D visualization
-I develop desktopand web-baset tools that remain responsive while processing and visualizing large datasets.  
-This includes rendering models with millions of triangles, interactive 3D tools, and keeping UI threads clean under intensive workloads.
+Electromagnetic simulation and engineering software with desktop and web-based tools.
 
-### Frontend development and UI/UX designs
-Alongside desktop development, I also build frontend applications where usability and performance matter:
-- React-based interfaces using modern Javascript (ES6+)  
-- State management and component-driven architecture  
-- API-driven UIs with attention to data flow and user feedback  
+Website: [pace.tr](https://pace.tr)
 
-I care about interfaces that make complex systems understandable rather than simply functional.
+### TantanaSosyal
 
-### Performance-oriented development
-Across both backend and frontend work, I focus on:
-- Profiling before optimizing  
-- Predictable performance and memory usage  
-- Clear logging, debuggable execution paths, and long-term maintainability  
+A private social and communication platform developed for TanTanacılar Caz Korosu.
 
----
+Available on iOS, Android, and Web.
 
-## Technologies I use
+Website: [sosyal.tantanacaz.com](https://sosyal.tantanacaz.com)
+App Store: [iOS App](https://apps.apple.com/us/app/tantana-sosyal/id6768383113)
+Google Play: Not released, privately used.
 
-**Languages**  
-Python, JavaScript / TypeScript, C# (.Net) , Java (Swing, Spring Boot)
+### RacingWidgets
 
-**Frontend**  
-React (tsx, js), jQuery, REST-based integrations, modern UI families (Ant Design, materialUI), creating my own components for multi-use 
+A motorsport race calendar and widget application developed for iPhone, iPad, and Mac.
 
-**UI & Desktop**  
-Qt (PyQt5, PyQt6, PySide5, PySide6), custom widgets and layouts, multi platform applications (CentOS, Windows, MacOS)
+Available on iOS and macOS.
 
-**3D & Geometry**  
-VTK, Gmsh, OpenCascade, Three.js
+App Store: [RacingWidgets](https://apps.apple.com/us/app/racingwidgets/id6767292882)
 
-**Environment & Tooling**  
-Conda, Docker, CI workflows, Swagger, RabbitMQ socket connections
+### Accelerate
 
-**Large Data Optimization**
-Effective parsing on Gigabytes of data reads and writes, effective (60fps +) visualization of millions of triangles...  
----
+Development and maintenance of the corporate website and related web interfaces.
+
+Website: [accelerate.com.tr](https://accelerate.com.tr)
+
+## Private Engineering Projects
+
+I also work on private defence industry projects involving:
+
+* Electromagnetic simulation software
+* 3D model visualization
+* Meshing and geometry processing
+* Scientific data processing
+* High-performance desktop applications
+* Internal engineering and analysis tools
+
+Due to confidentiality requirements, further technical and project details cannot be shared publicly.
