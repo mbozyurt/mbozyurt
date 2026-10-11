@@ -12,13 +12,13 @@ Website: [pace.tr](https://pace.tr)
 
 ### TantanaSosyal
 
-A private social and communication platform developed for TanTanacılar Caz Korosu.
+A private social and communication platform developed for Tantana Caz Korosu.
 
 Available on iOS, Android, and Web.
 
 Website: [sosyal.tantanacaz.com](https://sosyal.tantanacaz.com)
 App Store: [iOS App](https://apps.apple.com/us/app/tantana-sosyal/id6768383113)
-Google Play: Not released, privately used.
+Google Play: [Android App](https://play.google.com/store/apps/details?id=com.tantana.sosyal&hl=tr)
 
 ### RacingWidgets
 
