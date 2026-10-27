@@ -36,7 +36,7 @@ Website: [accelerate.com.tr](https://accelerate.com.tr)
 
 ## Private Engineering Projects
 
-I also work on private defence industry projects involving:
+I also work on projects involving:
 
 * Electromagnetic simulation software
 * 3D model visualization
